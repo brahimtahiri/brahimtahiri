@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?brahimtahiri=brahimtahiri)
+![](https://komarev.com/ghpvc/?username=brahimtahiri&label=Vues+du+profile)
 
 ## Hi there 👋
 
