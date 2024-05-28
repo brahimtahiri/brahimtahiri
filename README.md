@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=brahimtahiri&label=Vues+du+profile)
 
-## Bonjour 👋
+<h1>Bonjour 👋</h1>
 
 <!--
 **brahimtahiri/brahimtahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
