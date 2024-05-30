@@ -1,6 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=brahimtahiri&label=Vues+du+profile)
 
-<h1>Bonjour 👋</h1>
+<h1>Bonjour, je suis Brahim 👋</h1>
+
+<p>
+  J'adore coder. Vous aimez coder aussi ?
+
+  Je suis développeur Full-Stack qui travaille principalement sur des applications web et bureau.
+  De plus, je suis aussi passionné par les domaines des réseaux informatiques, le cloud et la cyber-sécurité.
+</p>
 
 <!--
 **brahimtahiri/brahimtahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
