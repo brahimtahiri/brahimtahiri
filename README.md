@@ -5,7 +5,7 @@
 <p>
   J'adore coder. Vous aimez coder aussi ?
 
-  Je suis développeur Full-Stack qui travaille principalement sur des applications web et bureau.
+  Je travaille principalement sur le développement d'applications web et bureau.
   De plus, je suis aussi passionné par les domaines des réseaux informatiques, le cloud et la cyber-sécurité.
 </p>
 
